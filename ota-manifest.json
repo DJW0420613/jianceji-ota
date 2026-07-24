@@ -1,5 +1,5 @@
 {
-  "version": "1cac75f",
+  "version": "0110592",
   "url": "https://ghproxy.com/https://raw.githubusercontent.com/DJW0420613/jianceji-ota@7951ee3/update.zip",
   "urls": [
     "https://ghproxy.com/https://raw.githubusercontent.com/DJW0420613/jianceji-ota@7951ee3/update.zip",
@@ -9,6 +9,6 @@
     "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@7951ee3/update.zip",
     "https://fastly.jsdelivr.net/gh/DJW0420613/jianceji-ota@7951ee3/update.zip"
   ],
-  "buildAt": "2026-07-24T14:23:36Z",
-  "buildTime": 1784903016000
+  "buildAt": "2026-07-24T15:29:20Z",
+  "buildTime": 1784906960906
 }
