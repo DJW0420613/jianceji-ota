@@ -1,12 +1,12 @@
 {
-  "version": "6c02305",
-  "url": "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@e174434/update.zip",
+  "version": "f4d6fe4",
+  "url": "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@f4d6fe4/update.zip",
   "urls": [
-    "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@e174434/update.zip",
-    "https://fastly.jsdelivr.net/gh/DJW0420613/jianceji-ota@e174434/update.zip",
-    "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota@e174434/update.zip",
-    "https://raw.githubusercontent.com/DJW0420613/jianceji-ota@e174434/update.zip"
+    "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@f4d6fe4/update.zip",
+    "https://fastly.jsdelivr.net/gh/DJW0420613/jianceji-ota@f4d6fe4/update.zip",
+    "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota@f4d6fe4/update.zip",
+    "https://raw.githubusercontent.com/DJW0420613/jianceji-ota@f4d6fe4/update.zip"
   ],
-  "buildAt": "2026-07-24T05:08:43Z",
-  "buildTime": 1784869723000
+  "buildAt": "2026-07-24T10:49:46Z",
+  "buildTime": 1784890186000
 }
