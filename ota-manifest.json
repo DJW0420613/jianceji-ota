@@ -1,14 +1,14 @@
 {
-  "version": "9.0.1787068342",
-"url": "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/8432d1a/update.zip",
+  "version": "9.0.1787114203",
+"url": "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/4774288/update.zip",
 "urls": [
-  "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/8432d1a/update.zip",
-  "https://gh.llkk.cc/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/8432d1a/update.zip",
-  "https://hub.gitmirror.com/DJW0420613/jianceji-ota/8432d1a/update.zip",
-  "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@8432d1a/update.zip",
-  "https://fastly.jsdelivr.net/gh/DJW0420613/jianceji-ota@8432d1a/update.zip",
-  "https://raw.githubusercontent.com/DJW0420613/jianceji-ota/8432d1a/update.zip"
+  "https://ghproxy.net/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/4774288/update.zip",
+  "https://gh.llkk.cc/https://raw.githubusercontent.com/DJW0420613/jianceji-ota/4774288/update.zip",
+  "https://hub.gitmirror.com/DJW0420613/jianceji-ota/4774288/update.zip",
+  "https://cdn.jsdelivr.net/gh/DJW0420613/jianceji-ota@4774288/update.zip",
+  "https://fastly.jsdelivr.net/gh/DJW0420613/jianceji-ota@4774288/update.zip",
+  "https://raw.githubusercontent.com/DJW0420613/jianceji-ota/4774288/update.zip"
 ],
-  "buildAt": "2026-08-18T15:52:22Z",
-  "buildTime": 1787068342000
+  "buildAt": "2026-08-19T04:36:43Z",
+  "buildTime": 1787114203000
 }
